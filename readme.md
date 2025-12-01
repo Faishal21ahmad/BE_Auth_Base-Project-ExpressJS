@@ -1,4 +1,4 @@
-# Base Project REST API Authentication 
+# Base Project REST API Authentication ExpressJS
 
 ### techStack:
 - ExpressJS
@@ -8,7 +8,6 @@
 - Email Token Verification 
 - JWT Token
 - File Upload
-
 
 ### install :
 ``` sh

@@ -48,7 +48,6 @@ class userModel {
         await dbPool.execute(SQLQuery, [id]);
         return;
     }
-
 }
 
 module.exports = userModel 
